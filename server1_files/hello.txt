@@ -1,0 +1,2 @@
+Hello from the distributed file system!
+This file is the same on both servers.
